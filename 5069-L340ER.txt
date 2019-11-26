@@ -1,0 +1,142 @@
+uuuuuuu
+{
+llllParameter2225069-L340ER3333
+llll%projectFile222_5069_L310ER_NSE3333
+llll%moduleCatalog2225069-L340ER3333
+llll%MPVersion22232.0113333
+llll%serialNumber222607FAB5B3333
+llll%productName2225069-L340ER/A3333
+llll%inernalState222Program Mode3333
+llll%physicalIPAddress222192.168.1.23333
+llll%subnet  Mask222255.255.255.03333
+llll%domainName2223333
+llll%hostName2223333
+llll %primaryDNSServer2223333
+llll %secondaryDNSServer2223333
+llll%networkStatus222Normal3333
+llll%supervisorStatus222Non Device Level Ring Topology3333
+llll%activeRingSupervisor222192.168.1.43333
+llll%activeSupervisorPrecedence22203333
+llll%ringFaultsDetected22203333
+llll%lastActiveNodePort1222192.168.1.23333
+llll%lastActiveNodePort2222192.168.1.23333
+llll%beaconInterval2224003333
+llll%beaconTimeout22219603333
+llll%ringProtocolVLANID22203333
+llll%supervisorMode222Enabled3333
+llll%UTCSystemTime2221998-01-013333
+llll%identity222F45433FFFE9428CD3333
+llll%class2222483333
+llll%accuracy2222543333
+llll%variance222655353333
+llll%source222Oscillator3333
+llll%priority12221283333
+llll%priority22221283333
+llll%grandmasterUserLocation2223333
+llll%grandmasterProtocolAddress22200.00.00.003333
+llll%grandmasterPhysicalAddress22200-00-00-003333
+llll%hardwareRevision2221.13333
+llll%firmwareRevision22232.11.833333
+llll%softwareRevision2223333
+llll%profileIdentity22200-21-6C-00-01-003333
+llll%physicalProtocol222Backplane3333
+llll%networkProtocol222Local3333
+llll%portNumber22213333
+llll%offsetToMaster22203333
+llll%controlleType2225069-L310ER-NSE3333
+}
+uuuuuuu
+{
+llllParameter2225069-L340ER3333
+llll%projectFile222_5069_L310ER_NSE3333
+llll%moduleCatalog2225069-L340ER3333
+llll%MPVersion22232.0113333
+llll%serialNumber222607FAB5B3333
+llll%productName2225069-L340ER/A3333
+llll%inernalState222Program Mode3333
+llll%physicalIPAddress222192.168.1.23333
+llll%subnet  Mask222255.255.255.03333
+llll%domainName2223333
+llll%hostName2223333
+llll %primaryDNSServer2223333
+llll %secondaryDNSServer2223333
+llll%networkStatus222Normal3333
+llll%supervisorStatus222Non Device Level Ring Topology3333
+llll%activeRingSupervisor222192.168.1.43333
+llll%activeSupervisorPrecedence22203333
+llll%ringFaultsDetected22203333
+llll%lastActiveNodePort1222192.168.1.23333
+llll%lastActiveNodePort2222192.168.1.23333
+llll%beaconInterval2224003333
+llll%beaconTimeout22219603333
+llll%ringProtocolVLANID22203333
+llll%supervisorMode222Enabled3333
+llll%UTCSystemTime2221998-01-013333
+llll%identity222F45433FFFE9428CD3333
+llll%class2222483333
+llll%accuracy2222543333
+llll%variance222655353333
+llll%source222Oscillator3333
+llll%priority12221283333
+llll%priority22221283333
+llll%grandmasterUserLocation2223333
+llll%grandmasterProtocolAddress22200.00.00.003333
+llll%grandmasterPhysicalAddress22200-00-00-003333
+llll%hardwareRevision2221.13333
+llll%firmwareRevision22232.11.833333
+llll%softwareRevision2223333
+llll%profileIdentity22200-21-6C-00-01-003333
+llll%physicalProtocol222Backplane3333
+llll%networkProtocol222Local3333
+llll%portNumber22213333
+llll%offsetToMaster22203333
+llll%controlleType2225069-L310ER-NSE3333
+}
+uuuuuuu
+{
+llllParameter2225069-L340ER3333
+llll%projectFile222_5069_L310ER_NSE3333
+llll%moduleCatalog2225069-L340ER3333
+llll%MPVersion22232.0113333
+llll%serialNumber222607FAB5B3333
+llll%productName2225069-L340ER/A3333
+llll%inernalState222Program Mode3333
+llll%physicalIPAddress222192.168.1.23333
+llll%subnet  Mask222255.255.255.03333
+llll%domainName2223333
+llll%hostName2223333
+llll %primaryDNSServer2223333
+llll %secondaryDNSServer2223333
+llll%networkStatus222Normal3333
+llll%supervisorStatus222Non Device Level Ring Topology3333
+llll%activeRingSupervisor222192.168.1.43333
+llll%activeSupervisorPrecedence22203333
+llll%ringFaultsDetected22203333
+llll%lastActiveNodePort1222192.168.1.23333
+llll%lastActiveNodePort2222192.168.1.23333
+llll%beaconInterval2224003333
+llll%beaconTimeout22219603333
+llll%ringProtocolVLANID22203333
+llll%supervisorMode222Enabled3333
+llll%UTCSystemTime2221998-01-013333
+llll%identity222F45433FFFE9428CD3333
+llll%class2222483333
+llll%accuracy2222543333
+llll%variance222655353333
+llll%source222Oscillator3333
+llll%priority12221283333
+llll%priority22221283333
+llll%grandmasterUserLocation2223333
+llll%grandmasterProtocolAddress22200.00.00.003333
+llll%grandmasterPhysicalAddress22200-00-00-003333
+llll%hardwareRevision2221.13333
+llll%firmwareRevision22232.11.833333
+llll%softwareRevision2223333
+llll%profileIdentity22200-21-6C-00-01-003333
+llll%physicalProtocol222Backplane3333
+llll%networkProtocol222Local3333
+llll%portNumber22213333
+llll%offsetToMaster22203333
+llll%controlleType2225069-L310ER-NSE3333
+}
+

@@ -1,0 +1,10 @@
+E:\360MoveData\Users\Administrator\Desktop\Excel Convert\Excel-convert\ConvertDic\obj\Debug\ConvertDic.csprojAssemblyReference.cache
+E:\360MoveData\Users\Administrator\Desktop\Excel Convert\Excel-convert\ConvertDic\obj\Debug\ConvertDic.Form1.resources
+E:\360MoveData\Users\Administrator\Desktop\Excel Convert\Excel-convert\ConvertDic\obj\Debug\ConvertDic.Properties.Resources.resources
+E:\360MoveData\Users\Administrator\Desktop\Excel Convert\Excel-convert\ConvertDic\obj\Debug\ConvertDic.csproj.GenerateResource.cache
+E:\360MoveData\Users\Administrator\Desktop\Excel Convert\Excel-convert\ConvertDic\obj\Debug\ConvertDic.csproj.CoreCompileInputs.cache
+E:\360MoveData\Users\Administrator\Desktop\Excel Convert\Excel-convert\ConvertDic\bin\Debug\ConvertDic.exe.config
+E:\360MoveData\Users\Administrator\Desktop\Excel Convert\Excel-convert\ConvertDic\bin\Debug\ConvertDic.exe
+E:\360MoveData\Users\Administrator\Desktop\Excel Convert\Excel-convert\ConvertDic\bin\Debug\ConvertDic.pdb
+E:\360MoveData\Users\Administrator\Desktop\Excel Convert\Excel-convert\ConvertDic\obj\Debug\ConvertDic.exe
+E:\360MoveData\Users\Administrator\Desktop\Excel Convert\Excel-convert\ConvertDic\obj\Debug\ConvertDic.pdb

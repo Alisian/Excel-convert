@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConvertDic.dicConvert;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,29 +8,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WindowsFormsApp1.FileConvert;
 
-namespace WindowsFormsApp1
+namespace ConvertDic
 {
-    
-    public partial class ConvertForm : Form
+    public partial class Form1 : Form
     {
-        private FileCon fc = new FileCon();
-        public ConvertForm()
+        private DicConvert dc = new DicConvert();
+        public Form1()
         {
             InitializeComponent();
-        }
-
-        private void BtnConvert_Click(object sender, EventArgs e)
-        {
-            string[] sheetGroup = fc.GetExcelSheetNames(textPath.Text);
-            Dictionary<string, string>dic = new Dictionary<string, string>();
-            dic = GetDicKV();
-        }
-
-        private Dictionary<string, string>  GetDicKV()
-        {
-            return fc.GetKV();
         }
 
         private void BtnSelectPath_Click(object sender, EventArgs e)
@@ -45,9 +32,17 @@ namespace WindowsFormsApp1
             }
         }
 
-        private void TextPath_TextChanged(object sender, EventArgs e)
+        private void BtnConvert_Click(object sender, EventArgs e)
         {
+            string[] sheetGroup = dc.GetExcelSheetNames(textPath.Text);
+            //Dictionary<string, string>[] dic = new Dictionary<string, string>[];
+            //dic = 
+                GetDicKV();
+        }
 
+        private Dictionary<string, string>[] GetDicKV()
+        {
+            return dc.GetKV(textPath.Text);
         }
     }
 }

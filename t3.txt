@@ -1,0 +1,98 @@
+uuuuuuu
+{
+llllParameter222t33333
+llll%projectFile222dddd 3333
+llll%moduleCatalog222dddd 3333
+llll%MPVersion222dddd 3333
+llll%serialNumber222dddd 3333
+llll%productName222dddd 3333
+llll%inernalState222dddd 3333
+llll%physicalIPAddress222dddd 3333
+llll%subnet  Mask222dddd 3333
+llll%domainName222dddd 3333
+llll%hostName222dddd 3333
+llll %primaryDNSServer222dddd 3333
+llll %secondaryDNSServer222dddd 3333
+llll%networkStatus222dddd 3333
+llll%supervisorStatus222dddd 3333
+llll%activeRingSupervisor222dddd 3333
+llll%activeSupervisorPrecedence222dddd 3333
+llll%ringFaultsDetected222dddd 3333
+llll%lastActiveNodePort1222dddd 3333
+llll%lastActiveNodePort2222dddd 3333
+llll%beaconInterval222dddd 3333
+llll%beaconTimeout222dddd 3333
+llll%ringProtocolVLANID222dddd 3333
+llll%supervisorMode222dddd 3333
+llll%UTCSystemTime222dddd 3333
+llll%identity222dddd 3333
+llll%class222dddd 3333
+llll%accuracy222dddd 3333
+llll%variance222dddd 3333
+llll%source222dddd 3333
+llll%priority1222dddd 3333
+llll%priority2222dddd 3333
+llll%grandmasterUserLocation222dddd 3333
+llll%grandmasterProtocolAddress222dddd 3333
+llll%grandmasterPhysicalAddress222dddd 3333
+llll%hardwareRevision222dddd 3333
+llll%firmwareRevision222dddd 3333
+llll%softwareRevision222dddd 3333
+llll%profileIdentity222dddd 3333
+llll%physicalProtocol222dddd 3333
+llll%networkProtocol222dddd 3333
+llll%portNumber222dddd 3333
+llll%offsetToMaster222dddd 3333
+llll%controlleType222dddd 3333
+}
+uuuuuuu
+{
+llllParameter222t33333
+llll%projectFile222dddd 3333
+llll%moduleCatalog222dddd 3333
+llll%MPVersion222dddd 3333
+llll%serialNumber222dddd 3333
+llll%productName222dddd 3333
+llll%inernalState222dddd 3333
+llll%physicalIPAddress222dddd 3333
+llll%subnet  Mask222dddd 3333
+llll%domainName222dddd 3333
+llll%hostName222dddd 3333
+llll %primaryDNSServer222dddd 3333
+llll %secondaryDNSServer222dddd 3333
+llll%networkStatus222dddd 3333
+llll%supervisorStatus222dddd 3333
+llll%activeRingSupervisor222dddd 3333
+llll%activeSupervisorPrecedence222dddd 3333
+llll%ringFaultsDetected222dddd 3333
+llll%lastActiveNodePort1222dddd 3333
+llll%lastActiveNodePort2222dddd 3333
+llll%beaconInterval222dddd 3333
+llll%beaconTimeout222dddd 3333
+llll%ringProtocolVLANID222dddd 3333
+llll%supervisorMode222dddd 3333
+llll%UTCSystemTime222dddd 3333
+llll%identity222dddd 3333
+llll%class222dddd 3333
+llll%accuracy222dddd 3333
+llll%variance222dddd 3333
+llll%source222dddd 3333
+llll%priority1222dddd 3333
+llll%priority2222dddd 3333
+llll%grandmasterUserLocation222dddd 3333
+llll%grandmasterProtocolAddress222dddd 3333
+llll%grandmasterPhysicalAddress222dddd 3333
+llll%hardwareRevision222dddd 3333
+llll%firmwareRevision222dddd 3333
+llll%softwareRevision222dddd 3333
+llll%profileIdentity222dddd 3333
+llll%physicalProtocol222dddd 3333
+llll%networkProtocol222dddd 3333
+llll%portNumber222dddd 3333
+llll%offsetToMaster222dddd 3333
+llll%controlleType222dddd 3333
+}
+uuuuuuu
+{
+}
+

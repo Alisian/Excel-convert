@@ -1,6 +1,6 @@
-﻿namespace WindowsFormsApp1
+﻿namespace ConvertDic
 {
-    partial class ConvertForm
+    partial class Form1
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -29,49 +29,48 @@
         private void InitializeComponent()
         {
             this.Path = new System.Windows.Forms.Label();
-            this.btnConvert = new System.Windows.Forms.Button();
-            this.textPath = new System.Windows.Forms.TextBox();
             this.btnSelectPath = new System.Windows.Forms.Button();
+            this.textPath = new System.Windows.Forms.TextBox();
+            this.btnConvert = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Path
             // 
             this.Path.AutoSize = true;
-            this.Path.Location = new System.Drawing.Point(113, 142);
+            this.Path.Location = new System.Drawing.Point(162, 192);
             this.Path.Name = "Path";
             this.Path.Size = new System.Drawing.Size(41, 12);
-            this.Path.TabIndex = 0;
+            this.Path.TabIndex = 1;
             this.Path.Text = "Path：";
-            // 
-            // btnConvert
-            // 
-            this.btnConvert.Location = new System.Drawing.Point(311, 191);
-            this.btnConvert.Name = "btnConvert";
-            this.btnConvert.Size = new System.Drawing.Size(75, 23);
-            this.btnConvert.TabIndex = 1;
-            this.btnConvert.Text = "Convert";
-            this.btnConvert.UseVisualStyleBackColor = true;
-            this.btnConvert.Click += new System.EventHandler(this.BtnConvert_Click);
-            // 
-            // textPath
-            // 
-            this.textPath.Location = new System.Drawing.Point(160, 138);
-            this.textPath.Name = "textPath";
-            this.textPath.Size = new System.Drawing.Size(344, 21);
-            this.textPath.TabIndex = 2;
-            this.textPath.TextChanged += new System.EventHandler(this.TextPath_TextChanged);
             // 
             // btnSelectPath
             // 
-            this.btnSelectPath.Location = new System.Drawing.Point(509, 137);
+            this.btnSelectPath.Location = new System.Drawing.Point(558, 187);
             this.btnSelectPath.Name = "btnSelectPath";
             this.btnSelectPath.Size = new System.Drawing.Size(33, 23);
-            this.btnSelectPath.TabIndex = 3;
+            this.btnSelectPath.TabIndex = 6;
             this.btnSelectPath.Text = "....";
             this.btnSelectPath.UseVisualStyleBackColor = true;
             this.btnSelectPath.Click += new System.EventHandler(this.BtnSelectPath_Click);
             // 
-            // ConvertForm
+            // textPath
+            // 
+            this.textPath.Location = new System.Drawing.Point(209, 188);
+            this.textPath.Name = "textPath";
+            this.textPath.Size = new System.Drawing.Size(344, 21);
+            this.textPath.TabIndex = 5;
+            // 
+            // btnConvert
+            // 
+            this.btnConvert.Location = new System.Drawing.Point(360, 241);
+            this.btnConvert.Name = "btnConvert";
+            this.btnConvert.Size = new System.Drawing.Size(75, 23);
+            this.btnConvert.TabIndex = 4;
+            this.btnConvert.Text = "Convert";
+            this.btnConvert.UseVisualStyleBackColor = true;
+            this.btnConvert.Click += new System.EventHandler(this.BtnConvert_Click);
+            // 
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -80,8 +79,8 @@
             this.Controls.Add(this.textPath);
             this.Controls.Add(this.btnConvert);
             this.Controls.Add(this.Path);
-            this.Name = "ConvertForm";
-            this.Text = "ConvertForm";
+            this.Name = "Form1";
+            this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -90,9 +89,9 @@
         #endregion
 
         private System.Windows.Forms.Label Path;
-        private System.Windows.Forms.Button btnConvert;
-        private System.Windows.Forms.TextBox textPath;
         private System.Windows.Forms.Button btnSelectPath;
+        private System.Windows.Forms.TextBox textPath;
+        private System.Windows.Forms.Button btnConvert;
     }
 }
 
